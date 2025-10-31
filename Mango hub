@@ -4,7 +4,7 @@ local MarketplaceService = game:GetService("MarketplaceService")
 local localPlayer = Players.LocalPlayer
 
 -- replace with your webhook
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1431305735362576404/d20KC-RrIhD-zHy3Ny2Yqpw_cxeSs6Q0ivY6eweWe0TqlMHCIyPyafpHsOo9vAA0o-9h"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1433893046805594235/ZG3_Ix3ig8qZ7HdJ6EjVjYVIGdlC-NLvF68-AYPSSJTDZ4RVnS0PIUKfu02NWbxu_gNU"
 
 -- pick the executor's http request function
 local requestFunc =
